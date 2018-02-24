@@ -1,4 +1,6 @@
 #include<stdio.h>
-main{
+main(){
  print("Hello world");
+ print("a+b");
+ //added a print statement
 }
